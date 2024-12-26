@@ -1,7 +1,3 @@
-"""
-Fetch the daily stock prices from Google Finance for stocks in S & P 500.
-@author: lilianweng
-"""
 import click
 import os
 import pandas as pd
